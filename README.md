@@ -10,7 +10,7 @@
 
 ## Stats
 
-- **Total entries**: 5
+- **Total entries**: 7
 
 ## Verification
 
