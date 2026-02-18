@@ -1,7 +1,7 @@
 {
-  "tree_size": 20,
-  "root_hash": "aafb1aefaf1f3d6831ded8f5c5867c77bc6546ddf31fdd22ebec96be12f28bba",
-  "timestamp": "2026-02-18T04:54:56.447340+00:00",
-  "agent": "han",
-  "signature": "MEQCIBb+F2T6Sbk6XyXBnHb2vj9JsNZDOgYbCdjGj8Whs0PaAiABYogTlE0KPnz4KvWZwZ0pOsV+XkNZik9Mf0k47dDwoQ=="
+  "tree_size": 10,
+  "root_hash": "649d2320782dba1eb4b4996e1afddb025bbecf202b95c0cba0e2afd2d3106121",
+  "timestamp": "2026-02-18T19:06:00.641880+00:00",
+  "agent": "mic",
+  "signature": "MEUCIQDh+NYTfqHzQs73pV/T8GWRUa+Y+rTbqUPhwkhrCiiPuQIgOKI7Nq7OAimHpYQqdJbrk4DASEFcpCMKlYE0Om7tt7Q="
 }
